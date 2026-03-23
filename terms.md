@@ -12,7 +12,7 @@ If you do not agree to these Terms, do not use the App.
 
 ## 1. Service Description
 
-TrackLine is a music trivia game that uses the Spotify platform to search for and play music. Players join game rooms, listen to song clips, and compete by guessing information about the songs. The App provides a multiplayer experience where players can create or join game rooms and play together in real time.
+TrackLine is a music trivia game that uses the Deezer platform to search for music and play 30-second preview clips. Players join game rooms, listen to song clips, and compete by guessing information about the songs. The App provides a multiplayer experience where players can create or join game rooms and play together in real time.
 
 ---
 
@@ -40,19 +40,19 @@ You are responsible for the display name you choose. Display names must not be o
 
 ---
 
-## 4. Spotify Account Requirement
+## 4. Music Service
 
-### 4.1 Your Spotify Account
+### 4.1 Deezer Integration
 
-TrackLine requires a Spotify account to function. You must have your own valid Spotify account and authorize the App to access the Spotify API on your behalf. We do not provide Spotify accounts, and we are not responsible for the availability or functionality of the Spotify service.
+TrackLine uses the Deezer API to search for music and play 30-second preview clips. No Deezer account is required to use the App. We are not responsible for the availability or functionality of the Deezer service.
 
-### 4.2 Spotify Terms
+### 4.2 Deezer Terms
 
-Your use of Spotify through the App is subject to Spotify's own Terms of Service ([https://www.spotify.com/legal/end-user-agreement/](https://www.spotify.com/legal/end-user-agreement/)) and Privacy Policy ([https://www.spotify.com/legal/privacy-policy/](https://www.spotify.com/legal/privacy-policy/)). You are responsible for complying with Spotify's terms.
+Music content accessed through the App is provided by Deezer and is subject to Deezer's Terms of Use ([https://www.deezer.com/legal/cgu](https://www.deezer.com/legal/cgu)).
 
 ### 4.3 No Affiliation
 
-TrackLine is not affiliated with, endorsed by, or sponsored by Spotify. All Spotify trademarks, service marks, and logos are the property of Spotify AB.
+TrackLine is not affiliated with, endorsed by, or sponsored by Deezer. All Deezer trademarks, service marks, and logos are the property of Deezer SA.
 
 ---
 
@@ -60,7 +60,7 @@ TrackLine is not affiliated with, endorsed by, or sponsored by Spotify. All Spot
 
 ### 5.1 Music Content
 
-All music, song titles, artist names, album artwork, and related content accessed through the App belong to their respective rights holders. TrackLine does not own, host, or distribute any music. Music is accessed and played through the Spotify API in accordance with Spotify's terms and licensing.
+All music, song titles, artist names, album artwork, and related content accessed through the App belong to their respective rights holders. TrackLine does not own, host, or distribute any music. Music previews are accessed and played through the Deezer API in accordance with Deezer's terms and licensing.
 
 ### 5.2 App Content
 
