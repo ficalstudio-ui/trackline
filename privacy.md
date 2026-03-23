@@ -24,16 +24,14 @@ Email: ficalstudio@gmail.com
 ### 2.1 Information You Provide
 
 - **Display Name:** The name you choose to identify yourself in game rooms. This is visible to other players in the same game room.
-- **Google Account Information:** If you choose to sign in with Google, we receive your email address and basic profile information from Google Sign-In.
-
 ### 2.2 Information Collected Automatically
 
-- **Authentication Identifiers:** When you use the App, Firebase Authentication generates a unique user ID (UID). If you sign in anonymously, only this UID is stored. If you sign in with Google, your email address is also associated with your account.
+- **Authentication Identifiers:** When you use the App, Firebase Authentication generates a unique anonymous user ID (UID). Only this UID is stored.
 - **Game Data:** Your game scores, game room participation, and in-game activity are stored to enable multiplayer gameplay.
 
 ### 2.3 Information from Third Parties
 
-- **Spotify:** When you connect your Spotify account, we receive an access token that allows the App to search for and play music on your behalf. We do not store your Spotify password. The access token is used only during your active session and for token refresh purposes.
+- **Deezer:** The App uses the Deezer API to search for music and play 30-second preview clips. No Deezer account or authentication is required. We do not collect any data from Deezer about you.
 
 ### 2.4 Information We Do NOT Collect
 
@@ -50,7 +48,7 @@ We use the information we collect for the following purposes:
 
 - **Gameplay:** To create and manage game rooms, display player names, track scores, and enable the multiplayer experience.
 - **Authentication:** To identify you across sessions and allow you to rejoin games.
-- **Spotify Integration:** To search for music and enable playback within the game using the Spotify API.
+- **Music Playback:** To search for music and play preview clips within the game using the Deezer API.
 - **Communication:** To respond to your inquiries if you contact us.
 
 We do not use your information for marketing, profiling, or automated decision-making.
@@ -63,7 +61,7 @@ If you are located in the European Economic Area (EEA), the United Kingdom, or S
 
 - **Performance of a Contract:** Processing is necessary to provide you with the game service you have requested.
 - **Legitimate Interests:** Processing is necessary for our legitimate interest in operating and improving the App, provided such interests are not overridden by your rights.
-- **Consent:** Where required by law, we obtain your consent before processing your data (e.g., connecting your Spotify account).
+- **Consent:** Where required by law, we obtain your consent before processing your data.
 
 ---
 
@@ -80,10 +78,10 @@ We share data with the following service providers, which act as data processors
 - Google's privacy policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 - Firebase data processing terms: [https://firebase.google.com/terms/data-processing-terms](https://firebase.google.com/terms/data-processing-terms)
 
-### 5.2 Spotify
+### 5.2 Deezer
 
-- The App uses the Spotify Web API to search for music and enable playback.
-- Your interaction with Spotify is also governed by Spotify's privacy policy: [https://www.spotify.com/legal/privacy-policy/](https://www.spotify.com/legal/privacy-policy/)
+- The App uses the Deezer API to search for music metadata and play 30-second preview clips. No user authentication with Deezer is required.
+- Deezer's privacy policy: [https://www.deezer.com/legal/personal-datas](https://www.deezer.com/legal/personal-datas)
 
 ### 5.3 Other Players
 
@@ -95,7 +93,7 @@ We share data with the following service providers, which act as data processors
 
 - **Game Room Data:** Game room data (including scores and display names) is retained for the duration of the game session. Game rooms may be automatically deleted after a period of inactivity.
 - **Authentication Data:** Your Firebase authentication record is retained as long as your account exists. Anonymous accounts that have been inactive for an extended period may be automatically purged by Firebase.
-- **Spotify Tokens:** Access tokens are stored locally on your device and are used only during active sessions. Tokens expire and are refreshed as needed. You can revoke Spotify access at any time through your Spotify account settings.
+- **Music Data:** No music-related tokens or credentials are stored. The Deezer API is accessed without user authentication.
 
 ---
 
